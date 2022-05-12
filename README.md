@@ -1,9 +1,9 @@
 # Split-Screen-Interactions
-A three-way split interaction using flexbox.
+A three-way split interaction using flexbox. The demo has some glassmorphism effect, so it's best to view in in Chrome.
 
 (Insert image here)
 
-Live Preview
+[Live Preview](https://codepen.io/pleasedonotdisturb/pen/abqmOvZ)
 
 ## Credits
 - Originally created by [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers).

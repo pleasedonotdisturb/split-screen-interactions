@@ -1,7 +1,7 @@
 # Split Screen Interactions
 A three-way split interaction using flexbox. The demo has some glassmorphism effect, so it's best to view in in Chrome.
 
-(Insert image here)
+![Demo preview of Split Screen Interactions](https://github.com/scepterdoescode/Split-Screen-Interactions/blob/main/demo-preview.gif)
 
 [Live Preview](https://codepen.io/pleasedonotdisturb/pen/abqmOvZ)
 
